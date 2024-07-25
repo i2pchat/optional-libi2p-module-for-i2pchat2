@@ -1,1 +1,1 @@
-# optional-libi2pd-module-for-i2pchat
+# optional-libi2p-module-for-i2pchat
